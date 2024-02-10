@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Portfolio Website 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "I have developed this portfolio website using HTML, CSS and JavaScript and GitHub Pages. It's a great way to showcase my work and experience.",
+    url: "https://mudassirmalik786.github.io/Portfolio-website/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Calculator Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Calculator Website is made using HTML, CSS and JavaScript, showing my working experience and determination to learn new things and implement them in real life projects.",
+    url: "https://mudassirmalik786.github.io/Calculator-Website/",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://mudassirmalik786.github.io/Portfolio-website/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Restaurant Management System using DSA",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Restaurant Management System using concepts of DSA showing my working experience and determination to learn new things and implement them in real life projects.",
+    url: "https://github.com/Mudassirmalik786/Restaurant-Management-System-DSA",
   },
 ];
 
